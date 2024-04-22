@@ -27,11 +27,19 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a second-year PhD candidate in the Swiss Seismological Service & ETH Zürich. I am keen to understanding the across-scale behavior of fault slip / earthquake cycles, and in general, geological hazards.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Education:** 
+        2019 - 2022, MEng in Civil Engineering, Tongji University
+        2015 - 2019, BEng in Civil Engineering, Central South University
+
+        **Specialties:** Modelling, Programming, Writing & Editing
+
+        **Languages:** Mandarin, English
     design:
       columns: '1'
+
+
   - block: collection
     content:
       title: Recent News
