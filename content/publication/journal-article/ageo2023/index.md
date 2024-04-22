@@ -8,8 +8,8 @@ authors:
 - Hu Zheng
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding author: admin"
+
 date: "2023"
 doi: "https://doi.org/10.1007/s11440-023-01944-y"
 
