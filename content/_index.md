@@ -16,7 +16,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: peakpx.webp
           filters:
             brightness: 0.5
           size: cover
@@ -27,15 +27,31 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a second-year PhD candidate in the Swiss Seismological Service & ETH Zürich. I am keen to understanding the across-scale behavior of fault slip / earthquake cycles, and in general, geological hazards.
+        I'm a second-year PhD student in the Swiss Seismological Service & ETH Zürich. I am keen to understanding the across-scale behavior of fault slip / earthquake cycles, and in general, geological hazards.
 
         **Education:** 
-        2019 - 2022, MEng in Civil Engineering, Tongji University
-        2015 - 2019, BEng in Civil Engineering, Central South University
 
-        **Specialties:** Modelling, Programming, Writing & Editing
+        PhD in Geophysics, ETH Zürich, Feb. 2023 - present
+
+        MEng in Geological Engineering, Tongji University, Sept. 2019 - Mar. 2022 
+        
+        BEng in Civil Engineering, Central South University, Sept. 2015 - Jun. 2019
+
+        **Experience:** 
+
+        CAE Algorithm Engineer, OptFuture (Peking), Sept. 2022 - Oct. 2022
+        
+        Exchange research student, Department of Civil Engineering, Monash University, Dec. 2018 - Jun. 2019
+
+        **Software:** OpenFOAM, LIGGGHTS, CFDEM, PFC, FLAC 2D/3D, PyTorch
+        
+        **Toolkits:** Git, LaTeX, Markdown, Sketchup
 
         **Languages:** Mandarin, English
+
+        **Journal Reviewer:** *Journal of Mountain Sciences*, *Earth and Space Science*
+
+        **Memberships:** Student Member, European Geosciences Union (EGU)
     design:
       columns: '1'
 
@@ -66,4 +82,5 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
+  
 ---

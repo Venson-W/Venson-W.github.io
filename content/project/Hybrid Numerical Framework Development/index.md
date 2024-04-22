@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: 
+summary: The project aims to develope an efficient hybrid numerical framework enabling us to model the fluid migration and fluid-fault interactions in the fault structure.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
