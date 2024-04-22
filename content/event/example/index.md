@@ -22,7 +22,7 @@ tags: []
 title: Poster at EGU 2024
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/resume.pdf"
+url_slides: "uploads/Yuhan_Poster_for_egu24.pdf"
 url_video: ""
 
 ---
