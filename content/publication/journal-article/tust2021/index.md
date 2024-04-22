@@ -68,8 +68,4 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+**Abstract:** Rock strainburst is a geological hazard occurred under high triaxial stress states, posing a great threat to the safety of underground constructions. It is well-known that the in-situ axial stress state of hard rock has significant impacts on its strainburst strength and fracture pattern. However, the effects of axial stress on the strainburst process and micro-cracking behavior ofrock have not been well understood. This paper aims to investigate the strainburst mechanism from the micromechanics perspective using Discrete Element Method (DEM). The microscale parameters of rock are obtained through a calibration process with different laboratory tests of hard rock under both tension and compression loadings. Consequently, a series of true strainburst tests of rock under a wide range of axial stresses are simulated, and numerical results show good agreements with experimental data, which verify the capability of the calibrated model in reproducing the mechanical response of rock strainburst. Based on this, the effects of axial stress on cracking behavior are further analyzed. It is found that the crack density and strainburst strength of specimens tend to increase with growing axial stress, and this trend is shown to be independent of sample size and frictional properties. In addition, the strainburst crack mode exhibits a transition from tensile dominated to tensile-shear mixed when the axial stress increases.
