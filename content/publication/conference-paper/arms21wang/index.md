@@ -13,7 +13,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - "Corresponding author: admin"
+  - "Corresponding author"
 
 
 date: '2021-07-01T00:00:00Z'
