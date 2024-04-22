@@ -1,9 +1,11 @@
 ---
 title: 
-summary: The project aims to develope an efficient hybrid numerical framework enabling us to model the fluid migration and fluid-fault interactions in the fault structure.
+summary: Development of a across-scale numerical framework with applications in modelling fluid migration and fluid-fault interactions.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Spectral Boundary Integral
+- Continuum framework
+- Poroelasticity
+date: "2024-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

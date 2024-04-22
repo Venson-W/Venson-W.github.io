@@ -1,15 +1,17 @@
 ---
 title: 
-summary: The project plans to extrapolate the grain-scale frictional evolution and pore poressure transition induced by shearing with the CFD-DEM method.
+summary: Extrapolate the grain-scale frictional evolution and pore poressure transition induced by shearing with the CFD-DEM method.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Discrete Element Method
+- Computational Fluid Dynamics
+- Representative Element Volume
+date: "2024-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Yu-Han
   focal_point: Smart
 
 links:

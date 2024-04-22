@@ -5,7 +5,7 @@ authors:
 - Elías Rafn Heimisson
 
 author_notes:
-- "Corresponding author: admin"
+- "Corresponding author"
 date: "2024"
 doi: "https://doi.org/10.1002/nag.3740"
 
