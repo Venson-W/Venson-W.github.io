@@ -5,8 +5,8 @@ authors:
 - Nhu HT Nguyen
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
+
 date: "2022"
 doi: "https://doi.org/10.1016/j.tafmec.2021.103166"
 

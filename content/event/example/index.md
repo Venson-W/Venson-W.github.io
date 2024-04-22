@@ -1,42 +1,33 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: Vienna
+  country: Austria
+
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2024-04-16T15:00:00Z"
+date_end: "2024-04-16T18:00:00Z"
+event: General Assembly 2024 of the European Geosciences Union (EGU)
+
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [J. Tian]'
   focal_point: Right
-location: Wowchemy HQ
+location: Austria Center Vienna (ACV)
 math: true
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+publishDate: "2024-01-01T00:00:00Z"
+#slides: example
+summary: I attended EGU24 from 15th to 19th in April and presented my poster on Tuesday afternoon (16th April).
 tags: []
-title: Example Talk
+title: Poster at EGU 2024
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/resume.pdf"
 url_video: ""
+
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Slides** button above to view my poster in details.
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

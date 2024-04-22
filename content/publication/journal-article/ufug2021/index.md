@@ -7,8 +7,8 @@ authors:
 - admin
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
+
 date: "2021"
 doi: "https://doi.org/10.1016/j.ufug.2020.126906"
 

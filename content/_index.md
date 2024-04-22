@@ -49,7 +49,7 @@ sections:
         
         **Toolkits:** 
         
-        Git, \LaTeX\, Markdown, SketchUp
+        Git, $\rm \LaTeX$, Markdown, SketchUp
 
         **Languages:** 
         

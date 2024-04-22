@@ -5,8 +5,7 @@ authors:
 - Elías Rafn Heimisson
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding author: admin"
 date: "2024"
 doi: "https://doi.org/10.1002/nag.3740"
 
