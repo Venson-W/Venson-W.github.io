@@ -3,8 +3,8 @@ title: Grain-scale study on the sheared granular element
 summary: Extrapolate the grain-scale frictional evolution and pore poressure transition induced by shearing with the CFD-DEM method.
 tags:
 - Discrete Element Method
-- Computational Fluid Dynamics
-- Representative Element Volume
+#- Computational Fluid Dynamics
+#- Representative Element Volume
 date: "2024-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

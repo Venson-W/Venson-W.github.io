@@ -2,8 +2,8 @@
 title: The fluid-fault interaction modelling
 summary: Development of a across-scale numerical framework with applications in modelling fluid migration and fluid-fault interactions.
 tags:
-- Spectral Boundary Integral
-- Continuum framework
+#- Spectral Boundary Integral
+#- Continuum framework
 - Poroelasticity
 date: "2024-04-23T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
