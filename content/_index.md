@@ -49,7 +49,7 @@ sections:
         
         **Toolkits:** 
         
-        Git, $\rm \LaTeX$, Markdown, SketchUp
+        Git, <span class="latex-logo">L<sup>a</sup>T<sub>e</sub>X</span>, Markdown, SketchUp
 
         **Languages:** 
         

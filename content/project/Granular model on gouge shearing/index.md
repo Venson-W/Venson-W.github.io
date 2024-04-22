@@ -1,6 +1,6 @@
 ---
 title: 
-summary: The project aims to develope an efficient hybrid numerical framework enabling us to model the fluid migration and fluid-fault interactions in the fault structure.
+summary: The project plans to extrapolate the grain-scale frictional evolution and pore poressure transition induced by shearing with the CFD-DEM method.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Reuters
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
