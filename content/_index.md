@@ -27,7 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a second-year PhD student in the Swiss Seismological Service & ETH Zürich. I am keen to understanding the across-scale behavior of fault slip / earthquake cycles, and in general, geological hazards.
+        I'm a second-year PhD student in the [Swiss Seismological Service](https://www.seismo.ethz.ch/en/) & [Department of Earth Sciences](https://erdw.ethz.ch/en/), [ETH Zürich](https://ethz.ch/de.html). Prior to joining ETHZ, I obtained my Master's degree in Geological Engineering from [Tongji University](https://en.tongji.edu.cn/p/), Shanghai. Earlier, I spent four years in majoring Civil Engineering at [Central South University](https://en.wikipedia.org/wiki/Central_South_University) located in Changsha, during which I also visited [Monash University](https://www.monash.edu/) (Melbourne) six months for my Bachelor thesis. In my PhD project, I am keen on understanding the across-scale behavior of fault slip / earthquake cycles concerning fault-fluid interactions with efficient numerical schemes. My research intreests lie in scientific computing, porous medium and granular matter, in particular, their correlation with a plethora of geological hazards.
 
         **Education:** 
 
@@ -41,17 +41,29 @@ sections:
 
         CAE Algorithm Engineer, OptFuture (Peking), Sept. 2022 - Oct. 2022
         
-        Exchange research student, Department of Civil Engineering, Monash University, Dec. 2018 - Jun. 2019
+        Exchange Research Student, Department of Civil Engineering, Monash University, Dec. 2018 - Jun. 2019
 
-        **Software:** OpenFOAM, LIGGGHTS, CFDEM, PFC, FLAC 2D/3D, PyTorch
+        **Software:** 
         
-        **Toolkits:** Git, LaTeX, Markdown, Sketchup
+        OpenFOAM, LIGGGHTS, CFDEM, PFC, FLAC 2D/3D, PyTorch
+        
+        **Toolkits:** 
+        
+        Git, LaTeX, Markdown, Sketchup
 
-        **Languages:** Mandarin, English
+        **Languages:** 
+        
+        Mandarin, English
 
-        **Journal Reviewer:** *Journal of Mountain Sciences*, *Earth and Space Science*
+        **Journal Reviewer:** 
+        
+        *Journal of Mountain Sciences*
+        
+        *Earth and Space Science*
 
-        **Memberships:** Student Member, European Geosciences Union (EGU)
+        **Memberships:** 
+        
+        Student Member, European Geosciences Union (EGU)
     design:
       columns: '1'
 
