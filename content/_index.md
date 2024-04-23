@@ -28,7 +28,8 @@ sections:
       subtitle: ''
       text: |-
         I'm a second-year PhD student at the [Swiss Seismological Service](http://seismo.ethz.ch/en/home/) and the [Department of Earth Sciences](https://erdw.ethz.ch/en/), [ETH Zürich](https://ethz.ch/de.html). Before joining ETHZ, I earned my Master's degree in Geological Engineering from [Tongji University](https://en.tongji.edu.cn/p/), Shanghai. Previously, I spent four years majoring in Civil Engineering at [Central South University](https://en.wikipedia.org/wiki/Central_South_University) in Changsha, during which I also spent six months at [Monash University](https://www.monash.edu/) (Melbourne) for my Bachelor's thesis. In my PhD project, I am keen on understanding the across-scale behavior of fault slip and earthquake cycles concerning fault-fluid interactions, using efficient numerical schemes. Broadly, my research interests focus on scientific computing, porous media, and granular matter, particularly in their correlation with a plethora of geological hazards.
-
+      
+      |-
         **Education:** 
 
         PhD in Geophysics, ETH Zürich, Feb. 2023 - present
@@ -70,7 +71,7 @@ sections:
         **Memberships:** 
         
         Student Member, European Geosciences Union (EGU)
-
+       |-
         **Awards:** 
         
         Outstanding Graduates by Tongji University, 2022
