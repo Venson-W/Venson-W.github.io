@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-04-24
 type: landing
 
 sections:
@@ -88,7 +88,6 @@ sections:
         Jiang Weiying Scholarship by a Hong Kong Entrepreneur, 2017
    design:
       columns: '1'
-
 #  - block: markdown
 #    content:
 #      title: 'F'
@@ -118,5 +117,4 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '1'
-  
 ---
