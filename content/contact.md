@@ -6,11 +6,9 @@ date: 2024-04-22
 sections:
   - block: markdown
     content:
-      title: Contact
-      #subtitle:
-      #text: |-
-      # Please feel free to drop me an email upon your interests in discussion.
-      # Contact (add or remove contact options as necessary)
+      title: 'Feel free to reach out ~'
+      subtitle: ''
+      text: 
       image: /uploads/NO_address.png
       email: yuhan.wang@sed.ethz.ch
       phone: +41 798637237
