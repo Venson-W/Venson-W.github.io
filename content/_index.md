@@ -83,9 +83,9 @@ sections:
 
         National Fellowship for Graduate Students, 2019 - 2022
 
-        International Exchange Scholarship for Outstanding Undergraduates, 2018
+        International Exchange Scholarship for Outstanding Undergraduates, 2018 - 2018
     
-        Jiang Weiying Scholarship by a Hong Kong Entrepreneur, 2017
+        Jiang Weiying Scholarship by a Hong Kong Entrepreneur, 2017 - 2017
    design:
       view: compact
       columns: '1'
