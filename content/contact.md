@@ -11,7 +11,7 @@ sections:
       #text: |-
       #  Please feel free to drop me an email upon your interests in discussion.
       # Contact (add or remove contact options as necessary)
-      ![targets](/uploads/NO address.png)
+      ![Image Map](/uploads/NO_address.png){.center-max-75}
       
       email: yuhan.wang@sed.ethz.ch
       phone: +41 798637237
