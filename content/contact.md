@@ -4,7 +4,7 @@ type: landing
 date: 2024-04-22
 
 sections:
-  - block: contact
+  - block: markdown
     content:
       title: Contact
       #subtitle:
