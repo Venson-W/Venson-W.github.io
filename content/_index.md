@@ -70,22 +70,6 @@ sections:
         **Memberships:** 
         
         Student Member, European Geosciences Union (EGU)
-
-        **Awards:** 
-        
-        Outstanding Graduates by Tongji University, 2022
-        
-        Outstanding Master Dissertation by Tongji University, 2022
-
-        National Scholarship for Graduate Students, 2021
-
-        National Scholarship for Graduate Students, 2020
-
-        National Fellowship for Graduate Students, 2019 - 2022
-
-        International Exchange Scholarship for Outstanding Undergraduates, 2018
-    
-        Jiang Weiying Scholarship by a Hong Kong Entrepreneur, 2017
    design:
       columns: '1'
 #  - block: markdown
