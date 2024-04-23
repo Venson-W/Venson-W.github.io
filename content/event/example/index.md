@@ -1,8 +1,9 @@
 ---
 address:
-  city: Vienna
+  city: Wien
   country: Austria
-
+  postcode: "1220"
+  street: Bruno-Kreisky-Platz 1
 all_day: false
 authors: []
 date: "2024-04-16T15:00:00Z"

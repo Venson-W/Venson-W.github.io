@@ -27,6 +27,8 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 #publication: In *Hugo Blox Builder Conference*
 #publication_short: In *ICW*
+publication: In *EGU General Assembly* 
+publication_short: In *EGU* 2023, Vienna, Austria
 
 tags: []
 

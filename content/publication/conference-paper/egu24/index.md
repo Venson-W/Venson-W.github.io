@@ -24,7 +24,8 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-
+publication: In *EGU General Assembly* 
+publication_short: In *EGU* 2024, Vienna, Austria
 
 tags: []
 

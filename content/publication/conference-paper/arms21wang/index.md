@@ -28,8 +28,8 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Asian Rock Mechanics Symposium* 
+publication_short: In *ARMS* 12th, 2021, Beijing, China
 
 
 tags: []
