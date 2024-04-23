@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: custom
-  theme_night: 
-  font: rose 
+  theme_night:
+  font: rose
   font_size: L
 
 # SEO
@@ -110,5 +110,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format: April 2024
+  date_format: January 2006
   citation_style: apa

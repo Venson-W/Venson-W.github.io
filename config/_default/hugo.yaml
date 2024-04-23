@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yu-Han Wang (王禹汗) # Website name
+title: Yu-Han Wang # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
