@@ -70,7 +70,7 @@ sections:
         **Memberships:** 
         
         Student Member, European Geosciences Union (EGU)
-       |-
+       
         **Awards:** 
         
         Outstanding Graduates by Tongji University, 2022
