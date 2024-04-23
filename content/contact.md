@@ -7,11 +7,11 @@ sections:
   - block: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Please feel free to drop me an email upon your interests in discussion.
+      #subtitle:
+      #text: |-
+      #  Please feel free to drop me an email upon your interests in discussion.
       # Contact (add or remove contact options as necessary)
-      #![targets](/uploads/NO address.png)
+      ![targets](/uploads/NO address.png)
       
       email: yuhan.wang@sed.ethz.ch
       phone: +41 798637237
