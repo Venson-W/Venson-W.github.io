@@ -9,7 +9,7 @@ sections:
       title: Contact
       #subtitle:
       #text: |-
-      #  Please feel free to drop me an email upon your interests in discussion.
+      # Please feel free to drop me an email upon your interests in discussion.
       # Contact (add or remove contact options as necessary)
       image: /uploads/NO_address.png
       email: yuhan.wang@sed.ethz.ch
