@@ -4,15 +4,15 @@ type: landing
 date: 2024-04-22
 
 sections:
-  - block: markdown
+  - block: contact  # Assuming 'contact' is a valid block type in your theme
     content:
       title: 'Feel free to reach out ~'
-      subtitle: ''
-      text: 
+      subtitle: ''  # If no subtitle is needed, this can be removed or left empty
+      text: 'Contact me via email, phone, or through my social media channels.'  # Added a text content
       image: /uploads/NO_address.png
       email: yuhan.wang@sed.ethz.ch
       phone: +41 798637237
-      #appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'  # Uncomment if you have an appointment URL
       address:
         street: Sonneggstrasse 5
         city: Zürich City
@@ -20,7 +20,7 @@ sections:
         postcode: '8092'
         country: Switzerland
         country_code: CH
-      directions: Enter Building NO and take the stairs to the office 11.3 on Floor H (H 11.3).
+      directions: "Enter Building NO and take the stairs to the office 11.3 on Floor H (H 11.3)."
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -35,16 +35,13 @@ sections:
        #   name: Zoom Me
        #   link: 'https://zoom.com'
 
-      # Automatically link email and phone or display as text?
       autolink: true
       
-      # Email form provider
       form:
         provider: netlify
         formspree:
-          id:
+          id: null  # Set this to a valid Formspree ID if used, or leave as null if not used
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
         
     design:
