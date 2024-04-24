@@ -28,8 +28,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -67,4 +67,4 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-**Abstract:** Upcoming...
+**Abstract:** Fluid migration in geological materials, a subject of great interest in various geophysical applications, has been interpreted through multiple numerical methods. Taking advantage of both a volume-based method and a boundary integral method, we innovate a hybrid spectral-boundary-integral and finite-difference method (SBI-FDM) to describe the fluid injection and propagation in the fault structure. The coupling of the two methods is established from the consistent exchange of the pressure gradient from the volume-based method and the boundary flux applied in the SBI boundary. The hybrid method benefits from its capability to truncate the domain and capture the fluid-induced pore pressure in geological systems without modeling the whole bulk. After establishing the numerical framework, we verify the SBI-FDM under both homogeneous and heterogeneous mediums using an analytical solution and the FDM results, respectively. After model verification, a sensitivity test showcases the stability of the numerical scheme. A speedup comparison of the SBI-FDM against the FDM is presented. We observe that the proposed method can achieve better computational efficiency with up to one thousand times speedup in our test. Utilizing the proposed hybrid method, we also perform parametric studies to reveal the significance of mobility contrast between the damage zone and host rock, as well as the role of fault width during fault injection.
