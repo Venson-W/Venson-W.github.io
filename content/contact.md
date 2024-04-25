@@ -38,13 +38,12 @@ sections:
 
       autolink: true
       
-      form:
-        provider: netlify
-        formspree:
-          id: null  # Set this to a valid Formspree ID if used, or leave as null if not used
-        netlify:
-          captcha: false
-        
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id: null  # Set this to a valid Formspree ID if used, or leave as null if not used
+      #  netlify:
+      #    captcha: false
     design:
       columns: '1'
 ---
