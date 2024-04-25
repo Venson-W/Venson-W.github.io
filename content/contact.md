@@ -26,7 +26,7 @@ sections:
           country: Switzerland
           country_code: CH
           
-          directions: "Enter Building NO and take the stairs/elevator to the office 11.3 on Floor H (H 11.3)."
+        directions: "Enter Building NO and take the stairs/elevator to the office 11.3 on Floor H (H 11.3)."
 
        ## - icon: skype
        #   icon_pack: fab
@@ -50,4 +50,4 @@ sections:
       columns: '1'
 ---
 
-![NO building location](/uploads/NO_address.png)
+#![NO building location](/uploads/NO_address.png)
