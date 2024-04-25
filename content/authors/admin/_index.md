@@ -33,12 +33,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Venson-W
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yu-Han-Wang-9
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
-
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-0490-5977 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
