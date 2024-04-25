@@ -27,7 +27,7 @@ sections:
        #   name: Zoom Me
        #   link: 'https://zoom.com'
 
-      autolink: true
+      
       address:
         street: Sonneggstrasse 5
         city: Zürich City
@@ -38,7 +38,7 @@ sections:
         
       directions: "Enter Building NO and take the stairs/elevator to the office 11.3 on Floor H (H 11.3)."
  
-      
+      autolink: true
       form:
         provider: netlify
         formspree:
@@ -50,4 +50,3 @@ sections:
       columns: '1'
 ---
 
-#![NO building location](/uploads/NO_address.png)
