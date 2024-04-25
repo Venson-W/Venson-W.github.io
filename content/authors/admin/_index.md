@@ -27,6 +27,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jyuhon1024
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yu-han-wang-85a7a91ab/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=-aXuoCkAAAAJ
