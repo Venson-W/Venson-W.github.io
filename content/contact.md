@@ -13,7 +13,16 @@ sections:
       email: yuhan.wang@sed.ethz.ch
       phone: +41 798637237
       #appointment_url: 'https://calendly.com'  # Uncomment if you have an appointment URL
-     contact_links:
+      address:
+        street: Sonneggstrasse 5
+        city: Zürich City
+        region: ZH
+        postcode: '8092'
+        country: Switzerland
+        country_code: CH
+        
+      directions: "Enter Building NO and take the stairs/elevator to the office 11.3 on Floor H (H 11.3)."
+      contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
@@ -27,18 +36,8 @@ sections:
        #   name: Zoom Me
        #   link: 'https://zoom.com'
 
-      
-      address:
-        street: Sonneggstrasse 5
-        city: Zürich City
-        region: ZH
-        postcode: '8092'
-        country: Switzerland
-        country_code: CH
-        
-      directions: "Enter Building NO and take the stairs/elevator to the office 11.3 on Floor H (H 11.3)."
- 
       autolink: true
+      
       form:
         provider: netlify
         formspree:
@@ -49,4 +48,3 @@ sections:
     design:
       columns: '1'
 ---
-
