@@ -10,8 +10,8 @@ sections:
       subtitle: ''  # If no subtitle is needed, this can be removed or left empty
       text: 'Contact me via email, phone, or through my social media channels.'  # Added a text content
       image: "uploads/NO_address.png"
-      ![screen reader text](NO_address.png "caption")
-      #![NO building location](/uploads/NO_address.png)
+      #![screen reader text](NO_address.png "caption")
+      map: "/uploads/NO_address.png"
       email: yuhan.wang@sed.ethz.ch
       phone: +41 798637237
       #appointment_url: 'https://calendly.com'  # Uncomment if you have an appointment URL
