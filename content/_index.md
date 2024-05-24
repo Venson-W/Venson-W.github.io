@@ -63,9 +63,11 @@ sections:
 
         **Journal Reviewer:** 
         
-        *Journal of Mountain Sciences*
+        *Geomatics, Natural Hazards and Risk*
         
-        *Earth and Space Science*
+        *Earth and Space Science (AGU)*
+
+        *Journal of Mountain Sciences*
 
         **Memberships:** 
         
