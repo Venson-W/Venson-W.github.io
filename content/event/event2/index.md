@@ -7,15 +7,15 @@ address:
 
 all_day: false
 authors: []
-date: "2024-08-12T09:00:00Z"
-date_end: "2024-08-21T18:00:00Z"
+date: "2024-08-12"
+date_end: "2024-09-21"
 event: Visiting at the Elías' group in the University of Iceland
 
 featured: false
 image:
-  caption: 'Image credit: [Yu-Han]'
+  caption: 'Image credit: [Wang]'
   focal_point: Right
-location: UoI campus and Videy Island
+location: Askja, UoI campus
 math: true
 publishDate: "2024-08-20T00:00:00Z"
 #slides: example
