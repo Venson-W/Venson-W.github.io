@@ -10,4 +10,7 @@ view: card
 image:
   caption: ''
   filename: ''
+
+imaging:
+  quality: 100
 ---
