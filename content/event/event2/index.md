@@ -7,8 +7,8 @@ address:
 
 all_day: false
 authors: []
-date: "2024-04-16T15:00:00Z"
-date_end: "2024-04-16T18:00:00Z"
+date: "2024-08-12T09:00:00Z"
+date_end: "2024-08-21T18:00:00Z"
 event: Visiting at the Elías' group in the University of Iceland
 
 featured: false
@@ -27,8 +27,4 @@ url_pdf: ""
 url_video: ""
 
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view my poster in details.
-{{% /callout %}}
 
