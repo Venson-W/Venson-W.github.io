@@ -12,5 +12,7 @@ image:
   filename: ''
 
 imaging:
+  resampleFilter: lanczos
   quality: 100
+  anchor: smart
 ---
