@@ -13,6 +13,6 @@ image:
 
 imaging:
   resampleFilter: lanczos
-  quality: 100
+  quality: 1000
   anchor: smart
 ---
