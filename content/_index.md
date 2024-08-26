@@ -31,7 +31,7 @@ sections:
 
         **Education:** 
 
-        PhD in Geophysics, ETH Zürich, Feb. 2023 - present
+        PhD in Geophysics, ETH Zürich, Feb. 2023 - present 
 
         MEng in Geological Engineering, Tongji University, Sept. 2019 - Mar. 2022 
         
@@ -39,6 +39,8 @@ sections:
 
         **Experience:** 
 
+        Visiting Research Student, University of Iceland, Aug. 2024 - Sept. 2024
+        
         Scientific Assistant, ETH Zürich, Feb. 2023 - present
 
         Research Assistant (Remote), the University of Warwick, Jul. 2022 - Dec. 2022
@@ -69,9 +71,13 @@ sections:
 
         *Journal of Mountain Sciences*
 
+        *Scientifc Reports*
+
         **Memberships:** 
         
         Student Member, European Geosciences Union (EGU)
+
+        Student Member, American Geophysical Union (AGU)
        
         **Awards:** 
         
