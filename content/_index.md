@@ -16,7 +16,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: pexels-pixabay-356831.jpeg
+          filename: 392948.jpg
           filters:
             brightness: 0.5
           size: cover
