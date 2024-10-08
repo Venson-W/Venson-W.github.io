@@ -19,7 +19,7 @@ publishDate: "2024-09-13T00:00:00Z"
 #slides: example
 summary: I gave a presentation on my PhD research at the University of Iceland, where I am currently visiting. It was great to receive so much useful feedback.
 tags: []
-title: Invited talk at Friday Seimiar at Institute of Earth Sciences, University of Iceland.
+title: Invited talk delivered in Friday Seimiar at Institute of Earth Sciences, University of Iceland.
 url_code: ""
 url_pdf: ""
 url_video: ""
