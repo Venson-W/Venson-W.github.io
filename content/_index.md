@@ -38,7 +38,7 @@ sections:
 
 
         
-       <div style="font-family: 'Rose', serif;">
+        <div style="font-family: 'Rose', serif;">
 
         **Education:** 
 
