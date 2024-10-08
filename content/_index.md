@@ -29,14 +29,14 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-       <p style="font-family: Computer Modern, serif; text-align: justify;">
+       <p text-align: justify;">
         I am a second-year PhD student at the <a href="http://seismo.ethz.ch/en/home/" target="_blank">Swiss Seismological Service</a> and the <a href="https://erdw.ethz.ch/en/" target="_blank">Department of Earth Sciences</a>, <a href="https://ethz.ch/de.html" target="_blank">ETH Zürich</a>. 
         Before joining ETHZ, I earned my Master's degree in Geological Engineering from <a href="https://en.tongji.edu.cn/p/" target="_blank">Tongji University</a>, Shanghai. Previously, I spent four years majoring in Civil Engineering at <a href="https://en.wikipedia.org/wiki/Central_South_University" target="_blank">Central South University</a> in Changsha, during which I also spent six months at <a href="https://www.monash.edu/" target="_blank">Monash University</a> (Melbourne) for my Bachelor's thesis. 
         In my PhD project, I am keen on understanding the across-scale behavior of fault slip and earthquake cycles concerning fault-fluid interactions, using efficient numerical schemes. Broadly, my research interests focus on scientific computing, porous media, and granular matter, particularly in their correlation with a plethora of geological hazards.
        </p>
 
         
-        <div style="font-family: Computer Modern, serif;">
+        <div>
 
        **Education:**
 
