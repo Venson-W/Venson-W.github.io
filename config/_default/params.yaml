@@ -14,6 +14,7 @@ appearance:
 # SEO
 
 marketing:
+  font: Rose
   seo:
     site_type: Person
     local_business_type: ''
@@ -30,6 +31,7 @@ marketing:
 # Site header
 
 header:
+  font: Rose
   navbar:
     enable: true
     align: true
@@ -42,6 +44,7 @@ header:
 # Site footer
 
 footer:
+  font: Rose
   copyright:
     notice: '© {year} YuHanWang. This work is licensed under {license}'
     license:
@@ -53,6 +56,7 @@ footer:
 # Localization
 
 locale:
+  font: Rose
   date_format: 'Jan 2, 2024'
   time_format: '3:04 PM'
   address_format: en-us
@@ -60,6 +64,7 @@ locale:
 # Site features
 
 features:
+  font: Rose
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
@@ -109,5 +114,6 @@ extensions:
 
 # Citation style
 publications:
+  font: Rose
   date_format: January 2024
   citation_style: apa
