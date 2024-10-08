@@ -108,7 +108,6 @@ extensions:
     enable: true
 
 # Citation style
-
 publications:
   date_format: January 2024
   citation_style: apa
