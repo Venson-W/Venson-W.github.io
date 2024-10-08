@@ -40,26 +40,29 @@ sections:
 
        **Education:**
 
-        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1.5em;">
+       **Education:**
+
+        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1em; line-height: 1.8;">
             <div style="flex: 1;">
                 <strong>PhD in Geophysics</strong>, ETH Zürich, Feb. 2023 - present
             </div>
             <img src="uploads/ETH_Zürich_Logo.svg.png" alt="ETH Zürich Logo" style="width: 100px; margin-left: 20px;">
         </div>
 
-        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1.5em;">
+        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1em; line-height: 1.8;">
             <div style="flex: 1;">
                 <strong>MEng in Geological Engineering</strong>, Tongji University, Sept. 2019 - Mar. 2022
             </div>
             <img src="uploads/Tongji_Uni_logo.svg.png" alt="Tongji University Logo" style="width: 100px; margin-left: 20px;">
         </div>
 
-        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1.5em;">
+        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1em; line-height: 1.8;">
             <div style="flex: 1;">
                 <strong>BEng in Civil Engineering</strong>, Central South University, Sept. 2015 - Jun. 2019
             </div>
             <img src="uploads/CSU_xiaohui.png" alt="Central South University Logo" style="width: 100px; margin-left: 20px;">
         </div>
+
 
 
         **Experience:** 
