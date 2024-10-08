@@ -38,7 +38,7 @@ sections:
 
 
         
-    <div style="font-family: 'Rose', serif;">
+       <div style="font-family: 'Rose', serif;">
 
         **Education:** 
 
@@ -107,7 +107,7 @@ sections:
         Jiang Weiying Scholarship by a Hong Kong Entrepreneur, 2017
 
 
-    </div>    
+        </div>    
     design:
       columns: '1'
 ---
