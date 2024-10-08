@@ -29,37 +29,38 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-       <p style="font-family: Computer Modern, serif; text-align: justify;">
-        I'm a second-year PhD student at the <a href="http://seismo.ethz.ch/en/home/" target="_blank">Swiss Seismological Service</a> and the <a href="https://erdw.ethz.ch/en/" target="_blank">Department of Earth Sciences</a>, <a href="https://ethz.ch/de.html" target="_blank">ETH Zürich</a>. 
+        <p style="font-family: Rose, serif; text-align: justify;">
+        I am a second-year PhD student at the <a href="http://seismo.ethz.ch/en/home/" target="_blank">Swiss Seismological Service</a> and the <a href="https://erdw.ethz.ch/en/" target="_blank">Department of Earth Sciences</a>, <a href="https://ethz.ch/de.html" target="_blank">ETH Zürich</a>. 
         Before joining ETHZ, I earned my Master's degree in Geological Engineering from <a href="https://en.tongji.edu.cn/p/" target="_blank">Tongji University</a>, Shanghai. Previously, I spent four years majoring in Civil Engineering at <a href="https://en.wikipedia.org/wiki/Central_South_University" target="_blank">Central South University</a> in Changsha, during which I also spent six months at <a href="https://www.monash.edu/" target="_blank">Monash University</a> (Melbourne) for my Bachelor's thesis. 
         In my PhD project, I am keen on understanding the across-scale behavior of fault slip and earthquake cycles concerning fault-fluid interactions, using efficient numerical schemes. Broadly, my research interests focus on scientific computing, porous media, and granular matter, particularly in their correlation with a plethora of geological hazards.
        </p>
 
         
-        <div style="font-family: Computer Modern, serif;">
+        <div style="font-family: Rose, serif;">
 
-        **Education:**
+       **Education:**
 
-        <div style="display: flex; align-items: center;">
+        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1.5em;">
             <div style="flex: 1;">
-                **PhD in Geophysics**, ETH Zürich, Feb. 2023 - present
+                <strong>PhD in Geophysics</strong>, ETH Zürich, Feb. 2023 - present
             </div>
-            <img src="uploads/ETH_Zürich_Logo.svg.png" alt="ETH Zürich Logo" style="width: 50px; margin-left: 10px;">
+            <img src="uploads/ETH_Zürich_Logo.svg.png" alt="ETH Zürich Logo" style="width: 100px; margin-left: 20px;">
         </div>
 
-        <div style="display: flex; align-items: center;">
+        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1.5em;">
             <div style="flex: 1;">
-                **MEng in Geological Engineering**, Tongji University, Sept. 2019 - Mar. 2022
+                <strong>MEng in Geological Engineering</strong>, Tongji University, Sept. 2019 - Mar. 2022
             </div>
-            <img src="uploads/Tongji_Uni_logo.svg.png" alt="Tongji University Logo" style="width: 50px; margin-left: 10px;">
+            <img src="uploads/Tongji_Uni_logo.svg.png" alt="Tongji University Logo" style="width: 100px; margin-left: 20px;">
         </div>
 
-        <div style="display: flex; align-items: center;">
+        <div style="display: flex; align-items: center; margin-bottom: 20px; font-size: 1.5em;">
             <div style="flex: 1;">
-                **BEng in Civil Engineering**, Central South University, Sept. 2015 - Jun. 2019
+                <strong>BEng in Civil Engineering</strong>, Central South University, Sept. 2015 - Jun. 2019
             </div>
-            <img src="uploads/CSU_xiaohui.png" alt="Central South University Logo" style="width: 50px; margin-left: 10px;">
+            <img src="uploads/CSU_xiaohui.png" alt="Central South University Logo" style="width: 100px; margin-left: 20px;">
         </div>
+
 
         **Experience:** 
 
