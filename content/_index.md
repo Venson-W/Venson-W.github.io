@@ -33,7 +33,7 @@ sections:
 
         <main class="academic-main">
         <h1>Welcome!</h1>
-        <p>I am a PhD student at the <a href="http://seismo.ethz.ch/en/home/" target="_blank" rel="noopener">Swiss Seismological Service</a> and the <a href="https://erdw.ethz.ch/en/" target="_blank" rel="noopener">Department of Earth Sciences</a>, <a href="https://ethz.ch/de.html" target="_blank" rel="noopener">ETH Zurich</a>. I am also a Visiting Student Researcher at <a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford University</a> from July 2025 to June 2026.</p>
+        <p>I am a PhD student at the <a href="http://seismo.ethz.ch/en/home/" target="_blank" rel="noopener">Swiss Seismological Service</a> and the <a href="https://erdw.ethz.ch/en/" target="_blank" rel="noopener">Department of Earth Sciences</a>, <a href="https://ethz.ch/de.html" target="_blank" rel="noopener">ETH Zurich</a>. I am also a Visiting Student of Research at <a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford University</a> from July 2025 to June 2026.</p>
         <p>My work focuses on understanding across-scale fault slip and earthquake cycles in fault-fluid systems using efficient numerical schemes. Broadly, I am interested in scientific computing, porous media, and granular matter, especially where they connect to geological hazards.</p>
         <p>Before joining ETH Zurich, I earned my master's degree in Geological Engineering from <a href="https://en.tongji.edu.cn/p/" target="_blank" rel="noopener">Tongji University</a>, Shanghai. I completed my bachelor's degree in Civil Engineering at <a href="https://en.wikipedia.org/wiki/Central_South_University" target="_blank" rel="noopener">Central South University</a>, with a bachelor's thesis period at <a href="https://www.monash.edu/" target="_blank" rel="noopener">Monash University</a>.</p>
 
@@ -49,7 +49,7 @@ sections:
         <section class="academic-section">
         <h2>Experience</h2>
         <ul class="academic-list">
-        <li><span>Visiting Student Researcher</span><span>Stanford University, Jul. 2025 - Jun. 2026</span></li>
+        <li><span>Visiting Student of Research</span><span>Stanford University, Jul. 2025 - Jun. 2026</span></li>
         <li><span>Visiting Research Student</span><span>University of Iceland, Aug. 2024 - Sept. 2024</span></li>
         <li><span>Scientific Assistant</span><span>ETH Zurich, Feb. 2023 - present</span></li>
         <li><span>Research Assistant (Remote)</span><span>University of Warwick, Jul. 2022 - Dec. 2022</span></li>
@@ -68,7 +68,7 @@ sections:
 
         <section class="academic-section academic-section--compact">
         <h2>Service</h2>
-        <p><strong>Journal Reviewer:</strong> <em>Geomatics, Natural Hazards and Risk</em>; <em>Earth and Space Science</em> (AGU); <em>Journal of Mountain Sciences</em>; <em>Scientific Reports</em></p>
+        <p><strong>Journal Reviewer:</strong> <em>Geomatics, Natural Hazards and Risk</em>; <em>Earth and Space Science</em> (AGU); <em>Journal of Mountain Sciences</em>; <em>Scientific Reports</em>; <em>Journal of Mechanics</em>; <em>Acta Geotechnica</em></p>
         <p><strong>Memberships:</strong> Student Member, European Geosciences Union (EGU); Student Member, American Geophysical Union (AGU)</p>
         </section>
 
