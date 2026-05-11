@@ -20,6 +20,7 @@ Experience
 ======
 
 * Visiting Student of Research, Stanford University, Jul. 2025 - Jun. 2026
+* Visiting Research Student, University of Iceland, Mar. 2025 - May 2025
 * Visiting Research Student, University of Iceland, Aug. 2024 - Sept. 2024
 * Scientific Assistant, ETH Zurich, Feb. 2023 - present
 * Research Assistant (Remote), University of Warwick, Jul. 2022 - Dec. 2022
