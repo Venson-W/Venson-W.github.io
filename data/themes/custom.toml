@@ -3,13 +3,13 @@ name = "Custom"
 
 [light]
   # Primary
-  primary = "#dd2c00"
+  primary = "#8f2d1f"
 
   # Menu
-  menu_primary = "#000"
-  menu_text = "#fff"
-  menu_text_active = "#fdfbe4"
-  menu_title = "#fff"
+  menu_primary = "#fff"
+  menu_text = "#24292f"
+  menu_text_active = "#8f2d1f"
+  menu_title = "#111827"
 
   # Backgrounds
   background = "#fff"
