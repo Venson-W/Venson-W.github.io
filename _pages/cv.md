@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* PhD in Geophysics, ETH Zurich, Feb. 2023 - present
+* PhD in Geophysics, ETH Zurich, Jan. 2023 - Dec. 2026
 * MEng in Geological Engineering, Tongji University, Sept. 2019 - Mar. 2022
 * BEng in Civil Engineering, Central South University, Sept. 2015 - Jun. 2019
 
