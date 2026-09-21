@@ -12,21 +12,19 @@ redirect_from:
 Education
 ======
 
-* PhD in Geophysics, ETH Zurich, Jan. 2023 - Dec. 2026
-* MEng in Geological Engineering, Tongji University, Sept. 2019 - Mar. 2022
-* BEng in Civil Engineering, Central South University, Sept. 2015 - Jun. 2019
+* Doctor of Science in Geophysics, ETH Zurich, Jan. 2023 - Dec. 2026 (expected); supervisors: Prof. Elías R. Heimisson and Prof. Stefan Wiemer
+* MEng in Geological Engineering, Tongji University, Sept. 2019 - Mar. 2022; GPA: 92/100
+* BEng in Civil Engineering, Central South University, Sept. 2015 - Jun. 2019; GPA: 88/100
 
 Experience
 ======
 
-* Visiting Student of Research, Stanford University, Jul. 2025 - Jun. 2026
-* Visiting Research Student, University of Iceland, Mar. 2025 - May 2025
-* Visiting Research Student, University of Iceland, Aug. 2024 - Sept. 2024
-* Scientific Assistant, ETH Zurich, Feb. 2023 - present
-* Research Assistant (Remote), University of Warwick, Jul. 2022 - Dec. 2022
-* CAE Algorithm Engineer, OptFuture (Peking), Sept. 2022 - Oct. 2022
-* Research Assistant, College of Civil Engineering, Tongji University, Sept. 2019 - Mar. 2022
-* Exchange Research Student, Department of Civil Engineering, Monash University, Dec. 2018 - Jun. 2019
+* Visiting Student Researcher in Geophysics, Stanford University, Jul. 2025 - Jun. 2026
+* Visiting Student in Earth Sciences, University of Iceland, Aug. - Sept. 2024 and Mar. - May 2025
+* Scientific Assistant, ETH Zurich, Jan. 2023 - present
+* Research Assistant in Computational Geomechanics (remote), University of Warwick, Jul. - Oct. 2022
+* Research and Teaching Assistant, Tongji University, Sept. 2019 - Jul. 2022
+* Visiting Research Student, Monash University, Dec. 2018 - May 2019
 
 Skills
 ======
@@ -34,6 +32,12 @@ Skills
 * Software: OpenFOAM, LIGGGHTS, CFDEM, PFC, FLAC 2D/3D, PyTorch
 * Toolkits: Git, LaTeX, Markdown, SketchUp
 * Languages: Mandarin, English
+
+Manuscripts
+======
+
+* Xie, X.; **Wang, Y.**; Li, P.; Shi, S.; Rong, X.; Wu, W.; Peng, J.; Wang, X.; Hu, J. "Dynamic generalized Hoek-Brown constitutive model for rock mass." Under review at *Rock Mechanics and Rock Engineering*.
+* **Wang, Y.**; Heimisson, E. R.; Dunham, E. "Understanding localization and delocalization in earthquake cycles using a multiscale rate-and-state friction framework." In preparation.
 
 Publications
 ======
@@ -59,10 +63,12 @@ Service
 Awards
 ======
 
-* Outstanding Graduates by Tongji University, 2022
-* Outstanding Master Dissertation by Tongji University, 2022
-* National Scholarship for Graduate Students, 2021
-* National Scholarship for Graduate Students, 2020
-* National Fellowship for Graduate Students, 2019 - 2022
-* International Exchange Scholarship for Outstanding Undergraduates, 2018
-* Jiang Weiying Scholarship by a Hong Kong Entrepreneur, 2017
+* SCEC Travel Grant, 2025
+* Doctoral Mobility Fellowship, Swiss National Science Foundation, 2024
+* Best Master's Thesis Award, Tongji University, 2022
+* Outstanding Graduate Student Award, Tongji University, 2022
+* National Scholarship, Tongji University, 2020 and 2021
+* Graduate Full Scholarship, Tongji University, 2019 - 2022
+* International Exchange Scholarship for Undergraduates, Central South University, 2018
+* First Prize, China Undergraduate Physics Tournament (Central South University), 2018
+* Jiang Weiying Scholarship, 2017

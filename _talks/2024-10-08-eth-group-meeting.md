@@ -1,15 +1,15 @@
 ---
-title: "Talk at Prof. Kammer's Weekly Group Meeting in ETH Honggerberg"
+title: "Understanding Shear Localization within Fault Gouge with Hybrid Numerical Schemes"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2024-10-08-eth-group-meeting
 venue: "Prof. Kammer's group meeting"
-date: 2024-10-08
+date: 2024-11-01
+display_date: "November 2024"
 location: "Zurich, Switzerland"
-excerpt: "Presented recent research progress on gouge localization during fault slip."
+excerpt: "A seminar on shear localization within fault gouge using hybrid numerical schemes."
 header:
   teaser: "event-eth-talk.gif"
 ---
 
-I presented recent research progress on gouge localization during fault slip at Prof. Kammer's weekly group meeting.
-
+I presented recent research on gouge localization during fault slip at Prof. David Kammer's weekly group seminar at ETH Zurich.
