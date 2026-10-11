@@ -1,0 +1,93 @@
+/* Styles for the Research overview only. */
+.research-overview {
+  max-width: 960px;
+}
+
+.research-intro {
+  max-width: 48em;
+  margin: 0 0 2.5rem;
+  font-size: 1.05em;
+  line-height: 1.7;
+}
+
+.research-project {
+  padding: 2.5rem 0;
+  border-top: 1px solid var(--global-border-color);
+  scroll-margin-top: 5rem;
+}
+
+.research-project__label {
+  margin: 0 0 0.65rem;
+  color: var(--global-base-color);
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.research-project h2 {
+  margin: 0 0 1.1rem;
+  padding: 0;
+  border: 0;
+  font-size: clamp(1.25rem, 2.4vw, 1.7rem);
+  line-height: 1.3;
+}
+
+.research-project > p:not(.research-project__label):not(.research-project__reference) {
+  margin: 0 0 1.5rem;
+  line-height: 1.75;
+}
+
+.research-project__media {
+  display: block;
+  margin: 1.5rem 0 0;
+}
+
+.research-project__media video,
+.research-project__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  background: #fff;
+}
+
+.research-project__media video:focus-visible {
+  outline: 3px solid var(--global-base-color);
+  outline-offset: 4px;
+}
+
+.research-project__media--granular {
+  max-width: 350px;
+}
+
+.research-project__media figcaption {
+  margin-top: 0.6rem;
+  color: var(--global-text-color);
+  font-size: 0.72em;
+  line-height: 1.6;
+}
+
+.research-project__reference {
+  margin: 1rem 0 0;
+  color: var(--global-text-color);
+  font-size: 0.72em;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+  .research-intro {
+    margin-bottom: 1.75rem;
+  }
+
+  .research-project {
+    padding: 1.75rem 0;
+  }
+
+  .research-project__label {
+    letter-spacing: 0.03em;
+  }
+}
