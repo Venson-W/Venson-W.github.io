@@ -17,10 +17,7 @@ description: "Numerical methods, rupture dynamics, and fluid-induced fault slip 
     <h2 id="hybrid-rupture-title">Hybrid Numerical Schemes Development for Rupture Dynamics</h2>
     <p>Earthquake rupture links large-scale fault slip to deformation within gouge layers only millimeters thick. I develop hybrid numerical schemes that bridge these scales by coupling a spectral boundary integral method for the surrounding poroelastic rock with staggered-grid finite differences inside the fault gouge. The framework resolves interacting heat, fluid-pressure, and deformation processes, including thermal pressurization and the emergence of narrow shear zones. Simulations show that the poroelastic response of the host rock can strongly influence how localized slip migrates across the gouge, with implications for interpreting geological records of past earthquakes. For the rapid rupture examined in this study, an undrained approximation captures much of the bulk response.</p>
     <figure class="research-project__media">
-      <video controls loop muted playsinline preload="none" width="1600" height="1564" poster="{{ base_path }}/images/research/hybrid-rupture-dynamics.jpg" aria-label="Simulation of earthquake rupture and shear localization in fault gouge" aria-describedby="hybrid-rupture-caption">
-        <source src="{{ base_path }}/files/videos/research/hybrid-rupture-dynamics.mp4" type="video/mp4">
-        Your browser does not support embedded video. The simulation illustrates the evolution of earthquake rupture and shear localization in fault gouge.
-      </video>
+      <img src="{{ base_path }}/images/research/hybrid-rupture-dynamics.gif" alt="Animation showing fault slip, pore pressure, temperature, and shear localization in the hybrid poroelastic model" width="960" height="938" loading="eager" decoding="async" aria-describedby="hybrid-rupture-caption">
       <figcaption id="hybrid-rupture-caption">Evolution of rupture and shear localization in the hybrid poroelastic model. Supplementary Movie S1 from Wang and Heimisson (2026).</figcaption>
     </figure>
     <p class="research-project__reference">Wang, Y.-H. and Heimisson, E. R. (2026). <cite>Poroelastic Bulk Controls on Shear Localization in Fault Gouge During Earthquake Rupture: Insights From a Hybrid Numerical Framework.</cite> Journal of Geophysical Research: Solid Earth, 131, e2025JB032291. DOI: 10.1029/2025JB032291.</p>
@@ -31,31 +28,9 @@ description: "Numerical methods, rupture dynamics, and fluid-induced fault slip 
     <h2 id="cross-scale-title">Cross-scale Modelling of Fluid-induced Fault Slip</h2>
     <p>I investigate how fluid migration and pore-pressure changes influence fault slip across scales. This work connects the mechanics of individual grains and granular fault gouge with the larger-scale response of a fluid-infiltrated fault. By combining grain-scale modelling with efficient continuum and hybrid numerical approaches, I aim to understand how local rearrangements, frictional evolution, and fluid-solid interactions contribute to the onset and development of slip. The goal is to link small-scale physical processes to fault-scale behaviour and improve our understanding of fluid-induced seismicity.</p>
     <figure class="research-project__media">
-      <video controls loop muted playsinline preload="none" width="1920" height="1080" poster="{{ base_path }}/images/research/cross-scale-fault-slip.jpg" aria-label="Three-dimensional grain-scale fault-slip simulation with slip measured in micrometers" aria-describedby="cross-scale-caption">
-        <source src="{{ base_path }}/files/videos/research/cross-scale-fault-slip.mp4" type="video/mp4">
-        Your browser does not support embedded video. The simulation shows grain-scale slip, with displacement measured in micrometers.
-      </video>
+      <img src="{{ base_path }}/images/research/cross-scale-fault-slip.gif" alt="Animation showing three-dimensional grain-scale slip during fluid injection, with slip measured in micrometers" width="1024" height="576" loading="eager" decoding="async" aria-describedby="cross-scale-caption">
       <figcaption id="cross-scale-caption">Grain-scale slip during fluid injection and after shut-in. Colours show slip in micrometers; the accompanying curves track injection rate and cumulative injected volume.</figcaption>
     </figure>
   </section>
 
-  <section class="research-project" aria-labelledby="fluid-fault-title">
-    <p class="research-project__label">03 &middot; Fluid migration and fault mechanics</p>
-    <h2 id="fluid-fault-title">Fluid-fault interaction modelling</h2>
-    <p>This research develops efficient hybrid numerical frameworks for modelling fluid migration and fault-fluid interactions across scales. The work combines volume-based methods and boundary integral solutions to capture pore-pressure diffusion and elastic responses around fault structures without modelling an unnecessarily large bulk domain.</p>
-    <figure class="research-project__media">
-      <img src="{{ base_path }}/images/project-fluid-fault.jpg" alt="Surface fracture extending across desert ground" loading="lazy" decoding="async">
-      <figcaption>A surface fracture illustrating the geological setting of fault mechanics.</figcaption>
-    </figure>
-  </section>
-
-  <section class="research-project" aria-labelledby="granular-gouge-title">
-    <p class="research-project__label">04 &middot; Granular fault gouge</p>
-    <h2 id="granular-gouge-title">Grain-scale study on sheared granular elements</h2>
-    <p>This project studies the shearing behaviour of granular fault-gouge elements at the grain scale using coupled computational fluid dynamics and discrete element methods (CFD-DEM). The goal is to connect particle-scale mechanics and fluid-solid coupling with frictional evolution and pore-pressure changes during granular shearing.</p>
-    <figure class="research-project__media research-project__media--granular">
-      <img src="{{ base_path }}/images/project-granular-gouge.jpg" alt="Layered assembly of spherical grains in a granular fault-gouge simulation" width="350" height="200" loading="lazy" decoding="async">
-      <figcaption>Grain-scale modelling of granular shearing and fluid-solid interactions.</figcaption>
-    </figure>
-  </section>
 </div>
