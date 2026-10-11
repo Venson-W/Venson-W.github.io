@@ -5,7 +5,7 @@ hide_title: true
 permalink: /portfolio/
 author_profile: true
 research_page: true
-description: "Numerical methods, rupture dynamics, and fluid-induced fault slip across scales."
+description: "Numerical methods, rupture dynamics, fluid-induced fault slip, and fracture in infilled rocks."
 ---
 
 {% include base_path %}
@@ -30,6 +30,18 @@ description: "Numerical methods, rupture dynamics, and fluid-induced fault slip 
     <figure class="research-project__media">
       <img src="{{ base_path }}/images/research/cross-scale-fault-slip.gif" alt="Animation showing three-dimensional grain-scale slip during fluid injection, with slip measured in micrometers" width="1024" height="576" loading="eager" decoding="async" aria-describedby="cross-scale-caption">
       <figcaption id="cross-scale-caption">Grain-scale slip during fluid injection and after shut-in. Colours show slip in micrometers; the accompanying curves track injection rate and cumulative injected volume.</figcaption>
+    </figure>
+  </section>
+
+  <section class="research-project" aria-labelledby="rock-infill-title">
+    <h2 id="rock-infill-title" class="research-project__label">03 &middot; Fracture and damage in infilled rocks</h2>
+    <p>I use discrete element modelling to investigate how interfaces between rock and infill control the strength and failure of flawed rocks. A cohesive damage-plasticity contact model, combined with calculations of continuum strain from particle displacements, connects particle-scale damage to specimen-scale deformation. Comparing smooth, weakly bonded and fully cohesive interfaces under uniaxial compression reveals how interfacial bonding and flaw orientation govern crack initiation, propagation and failure patterns. The results clarify when infilling can restore strength and why interface quality matters for rock reinforcement.</p>
+    <div class="research-project__references" role="group" aria-label="References">
+      <p class="research-project__reference">Wang, Y., and Nguyen, N. H. T. (2022). <a href="https://doi.org/10.1016/j.tafmec.2021.103166">The effects of rock-infill interfacial properties on the compressive damage behaviour of flawed rocks: results from a DEM study</a>. <cite>Theoretical and Applied Fracture Mechanics</cite>, 117, 103166.</p>
+    </div>
+    <figure class="research-project__media">
+      <img src="{{ base_path }}/images/research/rock-infill-damage.png" alt="Damage-dependent yield surfaces and grain-contact diagrams beside four stages of crack growth around an inclined flaw and corresponding coloured simulation fields" width="1600" height="1033" loading="lazy" decoding="async" aria-describedby="rock-infill-caption">
+      <figcaption id="rock-infill-caption">Damage-dependent yield surfaces and grain-contact responses, compared with progressive cracking around an inclined flaw.</figcaption>
     </figure>
   </section>
 
