@@ -3,17 +3,15 @@
   max-width: 960px;
 }
 
-.research-intro {
-  max-width: 48em;
-  margin: 0 0 2.5rem;
-  font-size: 1.05em;
-  line-height: 1.7;
-}
-
 .research-project {
   padding: 2.5rem 0;
   border-top: 1px solid var(--global-border-color);
   scroll-margin-top: 5rem;
+}
+
+.research-project:first-child {
+  padding-top: 0;
+  border-top: 0;
 }
 
 .research-project__label {
@@ -69,10 +67,6 @@
 }
 
 @media (max-width: 600px) {
-  .research-intro {
-    margin-bottom: 1.75rem;
-  }
-
   .research-project {
     padding: 1.75rem 0;
   }
