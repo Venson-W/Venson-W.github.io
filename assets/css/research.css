@@ -28,6 +28,10 @@
   text-align: center;
 }
 
+html[data-theme="dark"] .research-project__label {
+  color: #fff;
+}
+
 .research-project > p:not(.research-project__label):not(.research-project__reference) {
   margin: 0 0 1.5rem;
   line-height: 1.75;
