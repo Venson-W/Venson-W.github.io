@@ -52,6 +52,10 @@
   background: #fff;
 }
 
+.research-project[aria-labelledby="hybrid-rupture-title"] .research-project__media img {
+  max-height: 526.5px;
+}
+
 .research-project__media figcaption {
   margin-top: 0.6rem;
   color: var(--global-text-color);
