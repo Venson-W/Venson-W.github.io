@@ -39,13 +39,6 @@ Manuscripts
 * Xie, X.; **Wang, Y.**; Li, P.; Shi, S.; Rong, X.; Wu, W.; Peng, J.; Wang, X.; Hu, J. "Dynamic generalized Hoek-Brown constitutive model for rock mass." Under review at *Rock Mechanics and Rock Engineering*.
 * **Wang, Y.**; Heimisson, E. R.; Dunham, E. "Understanding localization and delocalization in earthquake cycles using a multiscale rate-and-state friction framework." In preparation.
 
-Publications
-======
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 Talks and Events
 ======
 
